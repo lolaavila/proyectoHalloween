@@ -4,46 +4,42 @@ body{
 }
 
 .card {
-  background-color: #b62626 !important; 
-  margin-top: 10px;
+  background-color: #b62626 ; 
+  margin-top: 5%;
   padding: 20px;
   border-radius: 10px;
-  margin-left: 200px;
-  margin-right: 200px;
+  margin-left: 12%;
+  margin-right: 12%;
 }
 
 #card2 {
-  background-color: #831818 !important; 
-  margin: 3px;
+  background-color: #831818 ; 
+  margin: 2%;
   padding: 20px;
   border-radius: 10px;
-  margin-left: 300px;
-  margin-right: 300px;
+  margin-left: 15%;
+  margin-right: 15%;
 }
 
 #card3 {
-  background-color: #da46465d !important; 
-  margin: 3px;
-  padding: 20px;
+  background-color: #da46465d ; 
+  margin: 0%;
   border-radius: 10px;
-  margin-left: 300px;
-  margin-right: 300px;
+  margin-left: 15%;
+  margin-right: 15%;
 }
 
 #nivel1, #nivel2, #nivel3 {
-  background-color: #222; 
-  color: white;
-  padding: 70px;
-  width: 15%;
+  background-color: #222 ; 
+  color: white; 
+  padding: 8%;
+  width: 80%;
   border-radius: 10px;
   text-align: center;
 }
 
 .niveles {
-  display: flex;                /* pone los niveles en fila */
-  justify-content: center;      /* centra horizontalmente */
-  align-items: center;          /* centra verticalmente */
-  gap: 5px;                    /* espacio entre niveles */
-  margin-top: 10px;
-  flex-wrap: wrap;
+  display:block;                               
+  gap: 1%;                    
+  margin-top: 5%;
 }
