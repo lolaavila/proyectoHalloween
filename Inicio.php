@@ -9,8 +9,9 @@
     integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous">
 </head>
 <body>
-    <div class="card">
-        <h2 style='color:black; text-align:center;'> ¡Enhorabuena! Has sido seleccionado, bienvenido a tu nuevo trabajo.</h2>
+    <div class="card" id='card1'>
+    <img src="imagenes/logo.png" class="card-img-top" alt="Bienvenido" id='logo'>
+      <h2 style='color:black; text-align:center;'> ¡Enhorabuena! Has sido seleccionado, bienvenido a tu nuevo trabajo.</h2>
     </div>
 
     <div class="card" id='card2'>

@@ -6,10 +6,23 @@ body{
 .card {
   background-color: #b62626 ; 
   margin-top: 5%;
-  padding: 20px;
-  border-radius: 10px;
+  padding: 20px; 
   margin-left: 12%;
   margin-right: 12%;
+}
+
+#logo {
+  display: flex;
+  width: 10%;
+  height: 10%;
+}
+
+#card1 {
+  background-color: #ffffff98 ; 
+  margin: 0%;
+  padding: 20px;
+  margin-left: 0%;
+  margin-right: 0%;
 }
 
 #card2 {
@@ -31,7 +44,7 @@ body{
 
 #nivel1, #nivel2, #nivel3 {
   background-color: #222 ; 
-  color: white; 
+  color: rgba(255, 255, 255, 0.658); 
   padding: 8%;
   width: 80%;
   border-radius: 10px;
